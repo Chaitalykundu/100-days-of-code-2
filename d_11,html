@@ -1,0 +1,14 @@
+<!-- Abbreviation Tag -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> abbr Tag </title>
+	</head>
+	
+	<body>
+		<!-- When cursor will be taken on HTML, the full form will be appeared -->
+		<p> Hello I'm an example of paragraph.
+		This is an example of abbreviation on<abbr title="Hypertext Markup Language"> HTML </abbr> </p> 
+	</body>
+</html>
